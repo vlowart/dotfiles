@@ -1,1 +1,1 @@
-progress: control hsitory for faster typing
+progress: control history for faster typing
