@@ -1,0 +1,50 @@
+: 1636734882:0;touch .zsh2
+: 1636734885:0;source .zshrc
+: 1636734929:0;lsa
+: 1636734954:0;dot add .zsha .zsh2 .zshrc
+: 1636734963:0;vim .zshrc
+: 1636734971:0;vim .zsha
+: 1636734995:0;source .zshrc
+: 1636734998:0;dot add .zsha .zsh2 .zshrc
+: 1636735073:0;/home/dk0/rpgit/dotfiles
+: 1636735074:0;..
+: 1636735078:0;rm -fr dotfiles
+: 1636735123:0;git clone https://github.com/vlowart/dotfiles
+: 1636735163:0;cp ~/rpgit/dotfiles/.bash_history ~/rpgit/dotfiles/.bashrc ~
+: 1636735178:0;cp ~/rpgit/dotfiles/.xresources ~
+: 1636735190:0;rm -fr dotfiles
+: 1636735192:0;..
+: 1636735195:0;dot init
+: 1636735209:0;mkdir ~/rpgit/dotfiles
+: 1636735211:0;dot init
+: 1636735246:0;dot add .zshrc .zsha .zsh2 .p10k.zsh .xresources .bash_history .bashrc
+: 1636735283:0;dot commit -m "reinstallation until find fit name folder :("
+: 1636735294:0;dot commit -m reinstallation until find fit name folder :(
+: 1636735299:0;dot commit -m reinstallation until find fit name folder :/(
+: 1636735305:0;dot commit -m reinstallation until find fit name folder :(\
+: 1636735314:0;dot commit -m reinstallation until find fit name folder, kinda sad
+: 1636735326:0;dot commit -m reinstallation until find fit name folder
+: 1636735349:0;dot config --global user.email "vlowarts@gmail.com"
+: 1636735358:0;dot config --global user.name "vlowart"
+: 1636735374:0;dot commit -m "reinstallation until find fit name folder, kinda sad"
+: 1636735398:0;dot add origin https://github.com/vlowart/dotfiles
+: 1636735406:0;dot add origin master
+: 1636735450:0;dot remote add origin https://github.com/vlowart/dotfiles
+: 1636735468:0;dot push origin master
+: 1636735489:0;dot pull
+: 1636735502:0;dot push origin master
+: 1636735529:0;gh repo delete
+: 1636735537:0;gh repo delete dotfiles
+: 1636735555:0;gh auth refresh -h github.com -s delete_repo
+: 1636735577:0;gh repo delete dotfiles
+: 1636735589:0;dot push origin master
+: 1636735595:0;gh repo create
+: 1636735605:0;~/rpgit/dotfiles
+: 1636735607:0;ls -a
+: 1636735613:0;..
+: 1636735619:0;rm -fr dotfiles
+: 1636735625:0;dot init
+: 1636735631:0;mkdir dotfiles
+: 1636735633:0;..
+: 1636735635:0;dot init
+: 1636735653:0;dot add .zshrc .zsha .zsh2 .p10k.zsh .xresources .bash_history .bashrc

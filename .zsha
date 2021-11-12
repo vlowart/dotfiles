@@ -1,0 +1,8 @@
+# Alias
+alias -g ls="lsd"
+alias -g lsl="lsd -l"
+alias -g lsa="lsd -a"
+alias -g lla="lsd -la"
+alias -g lst="lsd --tree"
+alias -g lta="lsd --tree -a"
+alias -g dot="/usr/bin/git --git-dir=$HOME/rpgit/dotfiles/ --work-tree=$HOME"
